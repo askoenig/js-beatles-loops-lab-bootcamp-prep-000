@@ -22,7 +22,9 @@ while (i < facts.length) {
 
 function iLoveTheBeatles (number) {
   var love = [];
+  
   do {love.push("I love the Beatles!"); number++;}
+  
   while(number < 15)
   
    return love
